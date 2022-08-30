@@ -1,6 +1,6 @@
 -- 👋 Hi, I’m @raquelspedroso
 - 👀 I'm interested in participating in projects that contribute to my professional development.
-- 🌱 I’m currently learning Javascript, Angular, React, Vue, Node, HTML, CSS, jQuery, Bootstrap Webpack Gulp MySQL.
+- 🌱 I’m currently learning Javascript, Angular, Node, HTML, CSS, MySQL, Python e AWS.
 
 
 <!---
