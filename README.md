@@ -1,6 +1,19 @@
--- 👋 Hi, I’m @raquelspedroso
-- 👀 I'm interested in participating in projects that contribute to my professional development.
-- 🌱 I’m currently learning Javascript, Angular, Node, HTML, CSS, MySQL, Python e AWS.
+-- 👋😃 Hi, I’m @raquelspedroso
+- 🚀 I'm interested in participating in projects that contribute to my professional development.
+-  👩🏻‍💻I work with backend development for web applications. 
+
+Skills:
+
+| Level | Language  |
+| ---   | ---       |
+|   intermediary  |  Python   |
+|   intermediary  |   Msql    |
+|   intermediary  | AWS Cloud |
+| basic  |  JAVA SE  |
+|  basic  |  Angular  |
+|  basic   | JavaScript|
+| basic  |   CSS     |
+|  basic   |  HTML     |
 
 
 <!---
